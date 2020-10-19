@@ -1,1 +1,7 @@
+... und jetzt master und mixture konsolidiert 10:03
+
+<<<<<<< HEAD
 Erste Zeile 9:59
+=======
+erste Zeile von mixture 10:01
+>>>>>>> mixture
